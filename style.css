@@ -1,0 +1,35 @@
+body
+{
+  background-color:#222831  ;
+  color: #eeeeee;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-width: 7px;
+  width: 8%;
+  border-color: #eeeeee30;
+}
+
+.pp
+{
+  height: 30%px;
+}
+
+h1,h2
+{
+  color: #00adb5;
+}
+
+a
+{
+  color: #eeeeee;
+  text-decoration: none;
+}
+a:hover{
+  color: #00adb5;
+}
+ul
+{
+  list-style: circle;
+}
